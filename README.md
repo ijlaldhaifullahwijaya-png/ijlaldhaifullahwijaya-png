@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./astronaut-dark-3840x2160-22768.jpg" width="100%">
+</p>
+
 # 💫 About Me:
  About Me<br><br>Hey! I'm a passionate Full-Stack Web Developer who loves turning ideas into real digital experiences.<br><br>I enjoy exploring how things work behind the scenes, building creative websites, and solving problems through code. For me, programming isn't just about writing code, it's about learning, experimenting, and creating something meaningful.<br><br>I'm always curious about new technologies and excited to challenge myself with new projects. Every line of code is another opportunity to grow and become a better developer.<br><br>Code, create, learn, and keep growing.🚀
 
